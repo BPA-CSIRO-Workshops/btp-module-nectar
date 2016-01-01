@@ -15,9 +15,7 @@ Bioinformatics Training Platform (BTP) Module: Using the NeCTAR Research Cloud
 	* How to setup your own local VirtualBox VM
 	* How to connect to a VM using an NX client
   * Time Required
-    * 
-  * Compute Requirements
-    * 
+    * 1 hr
 
 License
 =======
